@@ -1,5 +1,3 @@
-# hello-world
+# Hello GitHub
 
-Hi Humans
-
-Aaron here.
+Hi Everyone. Aaron's here. This a my first respository, it is used to practice.
